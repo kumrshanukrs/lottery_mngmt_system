@@ -1,0 +1,94 @@
+
+
+QListWidget {
+    background-color: #2c3e50;
+    color: white;
+    font-size: "14pt";
+    padding: "10pt";
+}
+
+QLabel {
+    font-size: "14pt";
+    font-weight: bold;
+    color: #333;
+}
+
+#inputField {
+    padding: "8pt";
+    border-radius: "5pt";
+    border: "1pt" solid #ccc;
+    font-size: "12pt";
+	}
+
+QPushButton {
+    padding: "8pt";
+    border-radius: "5pt";
+    font-size: "12pt";
+    font-weight: bold;
+	background-color: green;
+	}
+
+#actionButton {
+    background-color: #008CBA;
+    color: white;
+}
+
+#deleteButton {
+    background-color: #f44336;
+    color: white;
+}
+
+
+QDialog {
+    background-color: white;
+    border-radius: "10pt";
+    padding: 1"5pt";
+}
+
+#titleLabel {
+    font-size: "16pt";
+    font-weight: bold;
+    color: #333;
+    margin-bottom: "10pt";
+}
+
+
+
+
+#addButton {
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+    padding: "8pt";
+    border-radius: "5pt";
+}
+
+#openPopupButton {
+    background-color: #008CBA;
+    color: white;
+    font-weight: bold;
+    padding: "10pt";
+    border-radius: "5pt";
+}
+
+
+
+
+
+
+QTableWidget QHeaderView::section {
+    background-color: #ddd;
+    padding: "5pt";
+    font-weight: bold;
+    border: none;
+}
+
+
+
+
+#saveButton {
+    background-color: #008CBA;
+    color: white;
+    font-weight: bold;
+}
+
